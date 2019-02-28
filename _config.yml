@@ -1,6 +1,6 @@
-title: 3D Scene Generation
-email: manolis.savva@gmail.com
-description: Website for the Workshop on 3D Scene Generation at CVPR 2019
+title: Learning Generative Models of 3D Structures
+email: daniel_ritchie@brown.edu
+description: Website for the tutorial on learning generative models of 3D structures at Eurographics 2019
   ---
 baseurl: "" # the subpath of your site, e.g. /blog
 
