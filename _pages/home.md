@@ -51,36 +51,36 @@ acknowledgements: ""
      <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Introduction</td>
+          <td>Introduction (<a href='https://drive.google.com/open?id=1EoDcJTWZpsvzgogiHxBAVN7fzXF_Y4mS'>pdf</a>)</td>
           <td>Hao "Richard" Zhang</td>
-          <td>13:30 - 14:10</td>
+          <td>13:30 - 14:15</td>
         </tr>
         <tr>
-          <td>Geometric and Generative Modeling Basics</td>
+          <td>Geometric and Generative Modeling Basics (<a href='https://drive.google.com/open?id=1L25L_a_e_usBnI8zW-G_NbJ9UgLNJYKk'>pdf</a>, <a href='https://drive.google.com/open?id=104LKkW0OBSgRVj1DNRap-NMgIWRKEEEL'>pptx</a>)</td>
           <td>Siddhartha Chaudhuri</td>
-          <td>14:10 - 14:50</td>
+          <td>14:15 - 15:00</td>
         </tr>
         <tr>
           <td><i>Break</i></td>
           <td></td>
-          <td>14:50 - 15:00</td>
+          <td>15:00 - 15:30</td>
         </tr>
         <tr>
-          <td>Generative Models of 3D Shapes</td>
+          <td>Deep Hierarchical Models for 3D Shapes (<a href='https://drive.google.com/open?id=1ZBMIzpVGqS6eHagP8svaBTsgCCxaAYAs'>pdf</a>, <a href='https://drive.google.com/open?id=1UfnTIouKUlmeJwXXcfhmQg3B7bnZ6cFg'>pptx</a>)</td>
           <td>Kai "Kevin" Xu</td>
-          <td>15:00 - 15:40</td>
+          <td>15:30 - 16:10</td>
         </tr>
         <tr>
-          <td>Generative Models of 3D Scenes</td>
+          <td>Generative Models of 3D Scenes (<a href='https://drive.google.com/open?id=1fa9CZH50YdIzcWq179lozxoyWi1bb615'>pdf</a>, <a href='https://drive.google.com/open?id=14fB8RYOGWiWt165Ou55l9j35yORV1fXa'>pptx</a>)</td>
           <td>Daniel Ritchie</td>
-          <td>15:40 - 16:20</td>
+          <td>16:10 - 17:00</td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
 
-<br>
+<!-- <br>
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Resources</h2>
@@ -99,7 +99,7 @@ acknowledgements: ""
       </tbody>
     </table>
   </div>
-</div>
+</div> -->
 
 <br>
 <div class="row">
