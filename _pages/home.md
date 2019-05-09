@@ -56,7 +56,7 @@ acknowledgements: ""
           <td>13:30 - 14:15</td>
         </tr>
         <tr>
-          <td>Geometric and Generative Modeling Basics (<a href='https://drive.google.com/open?id=1L25L_a_e_usBnI8zW-G_NbJ9UgLNJYKk'>pdf</a>)</td>
+          <td>Geometric and Generative Modeling Basics (<a href='https://drive.google.com/open?id=1L25L_a_e_usBnI8zW-G_NbJ9UgLNJYKk'>pdf</a>, <a href='https://drive.google.com/open?id=1wPIdsXt7m7mVbsoQx8xUfW_PI39lsfo4'>pptx</a>)</td>
           <td>Siddhartha Chaudhuri</td>
           <td>14:15 - 15:00</td>
         </tr>
