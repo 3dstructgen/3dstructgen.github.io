@@ -41,7 +41,7 @@ acknowledgements: ""
 </div> <br>   
 
 
-<div class="row" id="resources">
+<div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Schedule</h2>
   </div>
@@ -79,27 +79,6 @@ acknowledgements: ""
     </table>
   </div>
 </div>
-
-<!-- <br>
-<div class="row" id="organizers">
-  <div class="col-xs-12">
-    <h2>Resources</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Course notes (Coming soon)</td>
-        </tr>
-        <tr>
-          <td>Course slides (Coming soon)</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div> -->
 
 <br>
 <div class="row">
